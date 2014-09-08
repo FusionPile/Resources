@@ -2,7 +2,7 @@
 
 A collection of my source files on the speed code videos.
 
-# Index
+# Index - To find my stuff easy.
 
 Season 1
 ----
