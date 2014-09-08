@@ -4,9 +4,12 @@ A collection of my source files on the speed code videos.
 
 # Index
 
-## Contributing changes
-
-- _test1_
+Season 1
+----
+* SimpleEffects: Give donators effects.
+* Suggestion: ???
+* Suggestion: ???
+* 
 ## License
 
 I give you permission to use my code in the following whats:
