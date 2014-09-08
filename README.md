@@ -1,10 +1,10 @@
-= Resource Repo
+# Resource Repo
 
 A collection of my source files on the speed code videos.
 
-= Index
+# Index
 
-== Season 1:
+## Season 1:
 *EP1 - "Simple Effects" - A command to give players effects
 *EP2 - "Suggestion" ???
 *EP3 - "Suggestion" ???
@@ -12,7 +12,7 @@ A collection of my source files on the speed code videos.
 *EP5 - "Suggestion" ???
 *EP6 - "Suggestion" ???
 
-= License
+# License
 
 I give you permission to use my code in the following whats:
 *Educational Usages.
