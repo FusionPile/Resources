@@ -5,12 +5,12 @@ A collection of my source files on the speed code videos.
 # Index
 
 ## Season 1:
-*EP1 - "Simple Effects" - A command to give players effects
-*EP2 - "Suggestion" ???
-*EP3 - "Suggestion" ???
-*EP4 - "Suggestion" ???
-*EP5 - "Suggestion" ???
-*EP6 - "Suggestion" ???
+-_EP1 - "Simple Effects" - A command to give players effects_
+-_EP2 - "Suggestion" ???_
+-_EP3 - "Suggestion" ???_
+-_EP4 - "Suggestion" ???_
+-_EP5 - "Suggestion" ???_
+-_EP6 - "Suggestion" ???_
 
 # License
 
