@@ -10,8 +10,6 @@ Season 1
 * Suggestion: ???
 * Suggestion: ???
 * 
-License
-----
 
 I give you permission to use my code in the following whats:
 *Educational Usages.
